@@ -1,2 +1,2 @@
-def TestTTMPy():
+def Test():
     return (u'Funziona!!!')
